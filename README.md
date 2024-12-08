@@ -2,7 +2,7 @@
 
 This app provides features for exploring and analyzing a dataset of English quotes. With intuitive tools and visualizations, you can search for quotes with specific meanings or understand the thematic distribution of quotes.
 
-The raw data file and the embeddings used for this project are not included in this repository, but can be reproduced by downloading the original dataset (see About the Dataset below) and running notebooks 01_Preprocessing and 02_Embedding.
+*The raw data file and the embeddings used for this project are not included in this repository, but can be reproduced by downloading the original dataset (see About the Dataset below) and running notebooks 01_Preprocessing and 02_Embedding.*
 
 ## Features
 ### 1. Quote Search
