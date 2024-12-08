@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+.DS_Store
+env/
+quotes.csv
+quotes_clean.csv
+quote_data/
+new_SentenceBERT_embeddings/
+SentenceBERT_embeddings/
