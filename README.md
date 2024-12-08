@@ -6,8 +6,12 @@ This app provides features for exploring and analyzing a dataset of English quot
 ### 1. Quote Search
 Search for quotes that resonate with a particular meaning by entering a text string. This feature helps you quickly find relevant quotes from the extensive dataset.
 
+![Screenshot of the Quote Search page](images/quoteSearchScreenshot.png)
+
 ### 2. Quote Visualiser
 Explore the thematic distribution of quotes using visualizations. This page provides insights into the dataset by categorizing quotes by topics.
+
+> **This is still a TODO!**
 
 ## About the Dataset
 The dataset contains nearly 500,000 quotes sourced from popular platforms such as:
